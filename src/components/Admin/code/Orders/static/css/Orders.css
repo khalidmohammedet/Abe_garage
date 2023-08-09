@@ -1,0 +1,208 @@
+/* Orders styling */
+.Orders {
+    background-color: #F6F7FA;
+    padding-top: 28px;
+    padding-left: 47px;
+    width: 899px;
+    display: flex;
+}
+
+.Orders_left_side_text_Info {
+    font-family: "Lato" , sans-serif;
+    background-color: #EE0D0A;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+    border: none;
+    padding: 40px 7px 7px 7px;
+    border-radius: 57%;
+    text-align: center;
+    width: 93px;
+    height: 57px;
+}
+
+.Orders_left_side_text_Cars {
+    font-family: "Lato" , sans-serif;
+    background-color: #EE0D0A;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+    border: none;
+    padding: 40px 7px 7px 7px;
+    border-radius: 57%;
+    text-align: center;
+    width: 93px;
+    height: 57px;
+}
+
+.Orders_left_side_text_Orders {
+    font-family: "Lato" , sans-serif;
+    background-color: #EE0D0A;
+    font-size: 19px;
+    font-weight: bolder;
+    color: #fff;
+    border: none;
+    padding: 40px 7px 7px 7px;
+    border-radius: 57%;
+    text-align: center;
+    width: 93px;
+    height: 57px;
+}
+
+.Orders_left_side_line_Info {
+    border-right: 1.8px solid #D2D2D2;
+    margin-left: 20px;
+    margin-right: 55px;
+    height: 169px;
+}
+
+.Orders_left_side_line_Cars {
+    border-right: 1.8px solid #D2D2D2;
+    margin-left: 20px;
+    margin-right: 55px;
+    height: 827px;
+}
+
+.Orders_right_side {
+    margin-top: 92px;
+    margin-left: 48px;
+}
+
+.Orders_right_side_info_customer_name {
+    font-family: "Lato" , sans-serif;
+    font-size: 25px;
+    margin-bottom: 14px;
+    font-weight: bolder;
+    color: #001659;
+}
+
+.Orders_right_side_info_customer_name_value {
+    font-family: "Lato" , sans-serif;
+    font-size: 23px;
+    font-style: italic;
+    margin-bottom: 14px;
+    color: #001659;
+}
+
+.Orders_right_side_info_email_address ,
+.Orders_right_side_info_phone_number ,
+.Orders_right_side_info_active_customer ,
+.Orders_right_side_info_edit_customer_info {
+    font-family: "Lato" , sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 7px;
+    color: #000;
+}
+
+.Orders_right_side_info_email_address_value ,
+.Orders_right_side_info_phone_number_value ,
+.Orders_right_side_info_active_customer_value {
+    font-family: "Lato" , sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    color: #818181;
+}
+
+.Orders_right_side_cars {
+    margin-top: 120px;
+}
+
+.Orders_right_side_cars_title {
+    font-family: "Lato" , sans-serif;
+    font-size: 25px;
+    margin-bottom: 18px;
+    font-weight: bolder;
+    color: #001659;
+}
+
+.Orders_right_side_cars_not_found {
+    font-family: "Lato" , sans-serif;
+    box-shadow: 0 10px 18px -9px #000000;
+    background-color: #FFFFFF;
+    padding-left: 25px;
+    padding-top: 16px;
+    padding-right: 525px;
+    padding-bottom: 16px;
+    font-size: 16px;
+    margin-bottom: 48px;
+    color: #7A7A7A;
+}
+
+.Orders_right_side_cars_new_vehicle {
+    background-color: #FFFFFF;
+    box-shadow: 0 10px 18px -9px #000000;
+    padding-left: 35px;
+    padding-bottom: 28px;
+    margin-bottom: 28px;
+}
+
+.Orders_right_side_cars_new_vehicle_heading {
+    display: flex;
+}
+
+.Orders_right_side_cars_new_vehicle_heading_title {
+    font-family: "Lato" , sans-serif;
+    font-size: 23px;
+    margin-bottom: 18px;
+    margin-top: 20px;
+    font-weight: bolder;
+    color: #001659;
+}
+
+.Orders_right_side_cars_new_vehicle_heading_line {
+    color: #EE0D09;
+    margin-left: 7px;
+    margin-top: 20px;
+    margin-right: 392px;
+    font-size: 23px;
+}
+
+.Orders_right_side_cars_new_vehicle_edit_customer_info_image {
+    border-radius: 18%;
+    height: 20px;
+    width: 25px;
+    cursor: pointer;
+}
+
+.Orders_right_side_cars_new_vehicle_input {
+    font-family: "Lato" , sans-serif;
+    border: 1px #DDDDDD solid;
+    padding: 14px;
+    font-size: 15.8px;
+    outline: none;
+    padding-right: 232px;
+    margin-bottom: 14px;
+}
+
+.Orders_right_side_cars_new_vehicle_button_container {
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    background-color: #EE0D09;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    border: none;
+    padding: 10px 32px;
+}
+
+.Orders_right_side_orders {
+    margin-top: 75px;
+    margin-bottom: 38px;
+}
+
+.Orders_right_side_orders_title {
+    font-family: "Lato" , sans-serif;
+    font-size: 25px;
+    margin-bottom: 12px;
+    font-weight: bolder;
+    color: #001659;
+}
+
+.Orders_right_side_order_display_here {
+    font-family: "Lato" , sans-serif;
+    font-size: 15px;
+    margin-bottom: 18px;
+    color: #797979;
+}

@@ -1,0 +1,82 @@
+/* Login styling */
+.Login {
+    margin-top: 127px;
+    margin-left: 272px;
+    margin-bottom: 65px;
+}
+
+.Login_heading {
+    display: flex;
+    margin-bottom: 32px;
+}
+
+.Login_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #05175B;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+.Login_heading_hr {
+    color: #EE0D09;
+    margin-left: 7px;
+    font-size: 25px;
+}
+
+.Login_heading_email_field {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    border: solid 1px #ccc;
+    padding: 3px;
+    outline: none;
+    font-style: italic;
+    padding-left: 15px;
+    width: 45%;
+    height: 45px;
+    margin-bottom: 15px;
+}
+
+.Login_heading_password_field {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    border: solid 1px #ccc;
+    padding: 3px;
+    outline: none;
+    font-style: italic;
+    padding-left: 15px;
+    width: 45%;
+    height: 45px;
+    margin-bottom: 20px;
+}
+
+.Login_button_container {
+    display: flex;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    background-color: #EE0D09;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    border: none;
+    padding: 10px 32px;
+    position: relative;
+}
+
+.VisibilityIcon_VisibilityOffIcon {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    transform: translateY(-50%);
+    font-weight: 400;
+}
+
+.VisibilityIcon_VisibilityOffIcon:hover,
+.VisibilityIcon_VisibilityOffIcon:active,
+.VisibilityIcon_VisibilityOffIcon:focus {
+    color: #EE0D09;
+}
+
+.Login_inputs {
+    margin-left: 5px;
+}

@@ -1,0 +1,411 @@
+/* About_us styling */
+/* About_us_header styling */
+.About_us_header {
+    background-image: url('../image/About_us_header_image.png');
+    margin-top: 49px;
+    padding-bottom: 70px;
+    background-size: cover;
+    padding-top: 82px;
+    padding-left: 312px;
+}
+
+.About_us_header_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #E8E8E9;
+    font-size: 37px;
+    font-weight: bolder;
+    margin-bottom: 12px;
+}
+
+.About_us_header_heading_lighter_text_container {
+    display: flex;
+}
+
+.About_us_header_heading_lighter_text_Home {
+    font-family: "Lato", sans-serif;
+    color: #ff0000;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.About_us_header_heading_lighter_icon {
+    margin-right: 10px;
+    margin-top: 2px;
+    color: #FFFFFF;
+}
+
+.About_us_header_heading_lighter_text_about_us {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+/* About_us_highly_skilled styling */
+.About_us_highly_skilled {
+    background-color: #fff;
+    width: 957px;
+    padding-top: 150px;
+    padding-left: 170px;
+    padding-bottom: 18px;
+    height: 300px;
+    display: flex;
+}
+
+.About_us_highly_skilled_left_side {
+    margin-right: 42px;
+}
+
+.About_us_highly_skilled_left_side_heading_title {
+    font-size: 27px;
+    color: #05175B;
+    line-height: 33px;
+    margin-bottom: 18px;
+    font-weight: bolder;
+    font-family: "Lato", sans-serif;
+}
+
+.About_us_highly_skilled_left_side_paragraph_text1 {
+    font-family: "Lato", sans-serif;
+    color: #868686;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 15px;
+}
+
+.About_us_highly_skilled_left_side_paragraph_text2 {
+    font-family: "Lato", sans-serif;
+    margin-bottom: 35px;
+    color: #868686;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+.About_us_highly_skilled_left_side_image {
+    height: 300px;
+    width: 480px;
+}
+
+/* About_us_workshop styling */
+.About_us_workshop {
+    background-color: #fff;
+    width: 1037px;
+    padding-top: 150px;
+    padding-left: 242px;
+    padding-bottom: 18px;
+    height: 300px;
+    display: flex;
+}
+
+.About_us_workshop_left_side {
+    margin-right: 58px;
+}
+
+.About_us_workshop_right_side_heading {
+    margin-bottom: 18px;
+}
+
+.About_us_workshop_right_side_heading_small_title {
+    font-family: "Lato", sans-serif;
+    color: #3C467D;
+}
+
+.About_us_workshop_right_side_heading_title {
+    font-size: 27px;
+    color: #05175B;
+    line-height: 52px;
+    font-weight: 600;
+    font-family: "Lato", sans-serif;
+}
+
+.About_us_workshop_right_side_heading_line {
+    background-color: red;
+    width: 57px;
+    height: 2px;
+    border-radius: 2%;
+}
+
+.About_us_workshop_right_side_paragraph_text1 {
+    font-family: "Lato", sans-serif;
+    color: #868686;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 15px;
+}
+
+.About_us_workshop_right_side_paragraph_text2 {
+    font-family: "Lato", sans-serif;
+    margin-bottom: 35px;
+    color: #868686;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+.About_us_workshop_right_side_button_container {
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    background-color: #EE0D09;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    border: none;
+    padding: 10px 32px;
+}
+
+.About_us_workshop_right_side_button_text {
+    margin-right: 4px;
+}
+
+/* About_us_chooseUs_aditional_services styling */
+.About_us_chooseUs_aditional_services {
+    background-color: #fff;
+    display: flex;
+    width: 1037px;
+    padding-top: 140px;
+    padding-left: 200px;
+    height: 300px;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_title_container {
+    display: flex;
+    margin-bottom: 22px;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_title {
+    font-family: "Lato", sans-serif;
+    font-size: 22px;
+    color: #05175B;
+    font-weight: bolder;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_title_line {
+    color: #EE0D09;
+    margin-left: 17px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_paragraph {
+    font-family: "Lato", sans-serif;
+    color: #828282;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 22px;
+    margin-bottom: 27px;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_menu_list {
+    list-style: none;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_menu_container {
+    display: flex;
+    margin-top: 12px;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_menu_image {
+    margin-right: 27px;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_menu {
+    margin-top: 15px;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    color: #05175B;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.About_us_chooseUs_aditional_services_choose_us_menu_line {
+    background-color: lightgray;
+    border: none;
+    margin-left: 7px;
+    margin-top: 3px;
+    height: 1px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services {
+    margin-left: 52px;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_title_container {
+    display: flex;
+    margin-bottom: 22px;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_title {
+    font-family: "Lato", sans-serif;
+    font-size: 22px;
+    color: #05175B;
+    font-weight: bolder;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_title_line {
+    color: #EE0D09;
+    margin-left: 17px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_imageANDmenu {
+    display: flex;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_imageANDmenu_menu_container {
+    display: flex;
+    list-style: none;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_imageANDmenu_menu {
+    margin-bottom: 8px;
+    font-family: "Lato", sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 17px;
+    color: #000000;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_imageANDmenu_menu_image {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    margin-top: 6.5px;
+}
+
+.About_us_chooseUs_aditional_services_aditional_services_imageANDmenu_image {
+    height: 348px;
+    margin-right: 23px;
+    margin-left: 3px;
+}
+
+/* About_us_Mechanical_work styling */
+.About_us_Mechanical_work {
+    background-image: url('../image/Mechanical_work_image.png');
+    margin-top: 170px;
+    padding-bottom: 70px;
+    background-size: cover;
+    padding-top: 82px;
+    padding-left: 312px;
+}
+
+.About_us_Mechanical_work_heading {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.About_us_Mechanical_work_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #E8E8E9;
+}
+
+.About_us_Mechanical_work_heading_hr {
+    color: #EE0D09;
+    margin-left: 7px;
+    font-size: large;
+}
+
+.About_us_Mechanical_work_title_container {
+    line-height: 37px;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.About_us_Mechanical_work_About_container {
+    display: flex;
+}
+
+.About_us_Mechanical_work_About_icon {
+    background-color: #EE0D09;
+    font-size: 18px;
+    color: #fff;
+    line-height: 38px;
+    border: 1px solid #EE0D09;
+    margin-right: 10px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 57%;
+    text-align: center;
+    width: 136px;
+    height: 136px;
+}
+
+.About_us_Mechanical_work_About_text {
+    line-height: 21px;
+    margin-left: 3px;
+}
+
+.About_us_Mechanical_work_About_text p {
+    text-transform: uppercase;
+    color: #BEBDBE;
+    font-family: "Lato", sans-serif;
+    font-size: 10px;
+}
+
+/* About_us_contact_us styling */
+.About_us_contact_us {
+    background-color: #ff0000;
+    margin-top: 111px;
+    margin-bottom: 111px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 77px;
+    padding-top: 27px;
+    padding-left: 27px;
+    height: 5px;
+    display: flex;
+}
+
+.About_us_contact_us_heading {
+    margin-right: 37px;
+}
+
+.About_us_Mechanical_work_heading_bolder_title {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+.About_us_Mechanical_work_heading_lighter_title {
+    line-height: 37px;
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.About_us_contact_us_phone_number {
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-family: "Lato", sans-serif;
+    font-size: 23px;
+    margin-top: 12px;
+    margin-right: 42px;
+}
+
+.About_us_contact_us_button {
+    background-color: #FFFFFF;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+    line-height: 25px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.About_us_contact_us_button_text {
+    margin-right: 10px;
+}
+
+.About_us_contact_us_button_icon {
+    margin-top: 3px;
+}

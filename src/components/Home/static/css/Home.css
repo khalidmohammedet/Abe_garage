@@ -1,0 +1,511 @@
+/* Home styling */
+/* Home_header styling */
+.Home_header {
+    background-image: url('../image/Home_header_image.png');
+    margin-top: 49px;
+    background-size: cover;
+    width: 983px;
+    padding-top: 182px;
+    padding-left: 312px;
+    height: 348px;
+}
+
+.Home_header_heading {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.Home_header_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #E8E8E9;
+}
+
+.Home_header_heading_hr {
+    color: #EE0D09;
+    margin-left: 7px;
+    font-size: large;
+}
+
+.Home_header_title_container {
+    line-height: 42px;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.Home_header_About_container {
+    display: flex;
+}
+
+.Home_header_About_icon {
+    background-color: #EE0D09;
+    font-size: 18px;
+    color: #fff;
+    line-height: 38px;
+    border: 1px solid #EE0D09;
+    margin-right: 10px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 57%;
+    text-align: center;
+    width: 136px;
+    height: 136px;
+}
+
+.Home_header_About_text {
+    line-height: 21px;
+    margin-left: 3px;
+}
+
+.Home_header_About_text p {
+    text-transform: uppercase;
+    color: #BEBDBE;
+    font-family: "Lato", sans-serif;
+    font-size: 10px;
+}
+
+/* Home_workshop styling */
+.Home_workshop {
+    background-color: #fff;
+    width: 1037px;
+    padding-top: 150px;
+    padding-left: 242px;
+    padding-bottom: 18px;
+    height: 300px;
+    display: flex;
+}
+
+.Home_workshop_left_side {
+    margin-right: 58px;
+}
+
+.Home_workshop_right_side_heading {
+    margin-bottom: 18px;
+}
+
+.Home_workshop_right_side_heading_small_title {
+    font-family: "Lato", sans-serif;
+    color: #3C467D;
+}
+
+.Home_workshop_right_side_heading_title {
+    font-size: 27px;
+    color: #05175B;
+    line-height: 52px;
+    font-weight: 600;
+    font-family: "Lato", sans-serif;
+}
+
+.Home_workshop_right_side_heading_line {
+    background-color: red;
+    width: 57px;
+    height: 2px;
+    border: none;
+}
+
+.Home_workshop_right_side_paragraph_text1 {
+    font-family: "Lato", sans-serif;
+    color: #868686;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 15px;
+}
+
+.Home_workshop_right_side_paragraph_text2 {
+    font-family: "Lato", sans-serif;
+    margin-bottom: 35px;
+    color: #868686;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+.Home_workshop_right_side_button_container {
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    background-color: #EE0D09;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    border: none;
+    padding: 10px 32px;
+}
+
+.Home_workshop_right_side_button_text {
+    margin-right: 4px;
+}
+
+/* Home_services styling */
+.Home_services {
+    background-image: url('../image/Home_services_image.png');
+    margin-top: 127px;
+    padding-top: 117px;
+    width: 1060px;
+    height: 348px;
+    background-size: cover;
+    padding-left: 235px;
+    padding-bottom: 240px;
+}
+
+.Home_services_heading_title_container {
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.Home_services_heading_title {
+    font-family: "Lato", sans-serif;
+    font-size: 27px;
+    color: #05175B;
+    font-weight: bolder;
+}
+
+.Home_services_heading_line {
+    color: #EE0D09;
+    margin-left: 17px;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+.Home_services_heading_paragraph {
+    font-family: "Lato", sans-serif;
+    color: #8F8F90;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 22px;
+    margin-bottom: 2px;
+}
+
+.Home_services_above_boxes,
+.Home_services_bottom_boxes {
+    display: flex;
+}
+
+.Home_services_box {
+    margin-right: 27px;
+    border-bottom: 4px solid #ff0000;
+    border-left: 4px solid #fff;
+    border-right: 4px solid #fff;
+    border-top: 4px solid #fff;
+    background-color: #fff;
+    width: 230px;
+    height: 130px;
+    margin-top: 32px;
+    padding-top: 7px;
+    padding-left: 17px;
+    box-shadow: 0 10px 18px -9px black;
+}
+
+.Home_services_boxes_small_title {
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+    color: #05175B;
+    font-size: 9px;
+}
+
+.Home_services_boxes_title {
+    font-family: "Lato", sans-serif;
+    color: #05175B;
+    font-size: 17px;
+    margin-bottom: 27px;
+}
+
+.Home_services_boxes_read_more_link {
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #EE0D09;
+    font-size: 12px;
+    margin-right: 87px;
+}
+
+/* Home_Quality_service styling */
+.Home_Quality_service {
+    background-color: #EE0D09;
+    width: 1195px;
+    padding-left: 100px;
+    height: 390px;
+    display: flex;
+}
+
+.Home_Quality_service_left_side {
+    margin-top: 50px;
+    margin-right: 30px;
+}
+
+.Home_Quality_service_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-bottom: 22px;
+}
+
+.Home_Quality_service_right_side_paragraph_text {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.Home_Quality_service_right_side {
+    margin-right: 10px;
+}
+
+.Home_Quality_service_left_side_image {
+    height: 390px;
+    width: 658px;
+}
+
+/* Home_chooseUs_aditional_services styling */
+.Home_chooseUs_aditional_services {
+    background-color: #fff;
+    display: flex;
+    width: 1037px;
+    padding-top: 140px;
+    padding-left: 200px;
+    height: 300px;
+}
+
+.Home_chooseUs_aditional_services_choose_us_title_container {
+    display: flex;
+    margin-bottom: 22px;
+}
+
+.Home_chooseUs_aditional_services_choose_us_title {
+    font-family: "Lato", sans-serif;
+    font-size: 22px;
+    color: #05175B;
+    font-weight: bolder;
+}
+
+.Home_chooseUs_aditional_services_choose_us_title_line {
+    color: #EE0D09;
+    margin-left: 17px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.Home_chooseUs_aditional_services_choose_us_paragraph {
+    font-family: "Lato", sans-serif;
+    color: #828282;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 22px;
+    margin-bottom: 27px;
+}
+
+.Home_chooseUs_aditional_services_choose_us_menu_list {
+    list-style: none;
+}
+
+.Home_chooseUs_aditional_services_choose_us_menu_container {
+    display: flex;
+    margin-top: 12px;
+}
+
+.Home_chooseUs_aditional_services_choose_us_menu_image {
+    margin-right: 27px;
+}
+
+.Home_chooseUs_aditional_services_choose_us_menu {
+    margin-top: 15px;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    color: #05175B;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.Home_chooseUs_aditional_services_choose_us_menu_line {
+    background-color: lightgray;
+    border: none;
+    margin-left: 7px;
+    margin-top: 3px;
+    height: 1px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.Home_chooseUs_aditional_services_aditional_services {
+    margin-left: 52px;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_title_container {
+    display: flex;
+    margin-bottom: 22px;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_title {
+    font-family: "Lato", sans-serif;
+    font-size: 22px;
+    color: #05175B;
+    font-weight: bolder;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_title_line {
+    color: #EE0D09;
+    margin-left: 17px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_imageANDmenu {
+    display: flex;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_imageANDmenu_menu_container {
+    display: flex;
+    list-style: none;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_imageANDmenu_menu {
+    margin-bottom: 8px;
+    font-family: "Lato" , sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 17px;
+    color: #000000;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_imageANDmenu_menu_image {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    margin-top: 6.5px;
+}
+
+.Home_chooseUs_aditional_services_aditional_services_imageANDmenu_image {
+    height: 348px;
+    margin-right: 23px;
+    margin-left: 3px;
+}
+
+/* Home_Mechanical_work styling */
+.Home_Mechanical_work {
+    background-image: url('../image/Mechanical_work_image.png');
+    margin-top: 170px;
+    padding-bottom: 70px;
+    background-size: cover;
+    padding-top: 82px;
+    padding-left: 312px;
+}
+
+.Home_Mechanical_work_heading {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.Home_Mechanical_work_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #E8E8E9;
+}
+
+.Home_Mechanical_work_heading_hr {
+    color: #EE0D09;
+    margin-left: 7px;
+    font-size: large;
+}
+
+.Home_Mechanical_work_title_container {
+    line-height: 37px;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.Home_Mechanical_work_About_container {
+    display: flex;
+}
+
+.Home_Mechanical_work_About_icon {
+    background-color: #EE0D09;
+    font-size: 18px;
+    color: #fff;
+    line-height: 38px;
+    border: 1px solid #EE0D09;
+    margin-right: 10px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 57%;
+    text-align: center;
+    width: 136px;
+    height: 136px;
+}
+
+.Home_Mechanical_work_About_text {
+    line-height: 21px;
+    margin-left: 3px;
+}
+
+.Home_Mechanical_work_About_text p {
+    text-transform: uppercase;
+    color: #BEBDBE;
+    font-family: "Lato", sans-serif;
+    font-size: 10px;
+}
+
+/* Home_contact_us styling */
+.Home_contact_us {
+    background-color: #ff0000;
+    margin-top: 111px;
+    margin-bottom: 111px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 77px;
+    padding-top: 27px;
+    padding-left: 27px;
+    height: 5px;
+    display: flex;
+}
+
+.Home_contact_us_heading {
+   margin-right: 37px;
+}
+
+.Home_Mechanical_work_heading_bolder_title {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+.Home_Mechanical_work_heading_lighter_title {
+    line-height: 37px;
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.Home_contact_us_phone_number {
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-family: "Lato", sans-serif;
+    font-size: 23px;
+    margin-top: 12px;
+    margin-right: 42px;
+}
+
+.Home_contact_us_button {
+    background-color: #FFFFFF;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+    line-height: 25px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.Home_contact_us_button_text {
+    margin-right: 10px;
+}
+
+.Home_contact_us_button_icon {
+    margin-top: 3px;
+}

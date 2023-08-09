@@ -1,0 +1,170 @@
+/* Contact_us styling */
+/* Contact_us_header styling */
+.Contact_us_header {
+    background-image: url('../image/Contact_us_header_image.png');
+    margin-top: 49px;
+    padding-bottom: 70px;
+    background-size: cover;
+    padding-top: 82px;
+    padding-left: 312px;
+}
+
+.Contact_us_header_heading_title {
+    font-family: "Lato", sans-serif;
+    color: #E8E8E9;
+    font-size: 37px;
+    font-weight: bolder;
+    margin-bottom: 12px;
+}
+
+.Contact_us_header_heading_lighter_text_container {
+    display: flex;
+}
+
+.Contact_us_header_heading_lighter_text_Home {
+    font-family: "Lato", sans-serif;
+    color: #ff0000;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.Contact_us_header_heading_lighter_icon {
+    margin-right: 10px;
+    margin-top: 2px;
+    color: #FFFFFF;
+}
+
+.Contact_us_header_heading_lighter_text_Contact_us {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+/* Contact_us_contacts styling */
+.Contact_us_contacts {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 78px;
+    margin-bottom: 78px;
+}
+
+.Contact_us_contacts_location_map_system {
+    width: 478px;
+    height: 370px;
+    margin-right: 127px;
+}
+
+.Contact_us_contacts_location_adress_heading_title {
+    font-family: "Lato", sans-serif;
+    font-size: 25px;
+    color: #05175B;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.Contact_us_contacts_location_adress_heading_paragraph_text {
+    font-family: "Lato", sans-serif;
+    color: #828282;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 22px;
+    margin-bottom: 27px;
+}
+
+.Contact_us_contacts_link_location,
+.Contact_us_contacts_link_email,
+.Contact_us_contacts_link_phone {
+    display: flex;
+    margin-bottom: 34px;
+}
+
+.Contact_us_contacts_link_location_image,
+.Contact_us_contacts_link_email_image,
+.Contact_us_contacts_link_phone_image {
+    margin-right: 14px;
+}
+
+.Contact_us_contacts_link_location_name,
+.Contact_us_contacts_link_email_name,
+.Contact_us_contacts_link_phone_name {
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+    color: #05175B;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.Contact_us_contacts_link_location_name_address,
+.Contact_us_contacts_link_email_name_address,
+.Contact_us_contacts_link_phone_name_address {
+    font-family: "Lato", sans-serif;
+    color: #858484;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+/* Contact_us_contact_us styling */
+.Contact_us_contact_us_container {
+    background-color: #F9F9F9;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.Contact_us_contact_us {
+    background-color: #ff0000;
+    padding-bottom: 77px;
+    padding-top: 27px;
+    padding-left: 27px;
+    height: 5px;
+    display: flex;
+}
+
+.Contact_us_contact_us_heading {
+   margin-right: 37px;
+}
+
+.Contact_us_Mechanical_work_heading_bolder_title {
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+.Contact_us_Mechanical_work_heading_lighter_title {
+    line-height: 37px;
+    font-family: "Lato", sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.Contact_us_contact_us_phone_number {
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-family: "Lato", sans-serif;
+    font-size: 23px;
+    margin-top: 12px;
+    margin-right: 42px;
+}
+
+.Contact_us_contact_us_button {
+    background-color: #FFFFFF;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+    line-height: 25px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.Contact_us_contact_us_button_text {
+    margin-right: 10px;
+}
+
+.Contact_us_contact_us_button_icon {
+    margin-top: 3px;
+}

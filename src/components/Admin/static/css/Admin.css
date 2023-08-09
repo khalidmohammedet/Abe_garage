@@ -1,0 +1,67 @@
+/* Admin styling */
+/* Admin_landing styling */
+.Admin {
+    margin-top: 57px;
+}
+
+.Admin_landing {
+    display: flex;
+}
+
+.Admin_landing_left_side {
+    width: 350px;
+}
+
+.Admin_landing_left_side_title {
+    background-color: #1E2331;
+    font-family: "Lato" , sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #E1E1E2;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 20px;
+}
+
+.Admin_landing_left_side_menu_list {
+    background-color: #232B48;
+}
+
+.Admin_landing_left_side_menu {
+    background-color: #232B48;
+    color: #FFFFFF;
+    font-family: "Lato" , sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 17px;
+}
+
+.Admin_landing_left_side_menu_line {
+    height: 1.0px;
+    border: none;
+    background-color: #616675;
+}
+
+.Admin_landing_left_side_menu_line_Customers {
+    height: 0.8px;
+    border: none;
+    background-color: #616675; 
+}
+
+.Admin_landing_left_side_another_menu {
+    color: #232B48;
+    user-select: none;
+}
+
+.mbDashboard {
+    margin-bottom: 400px;
+}
+
+.mbOrders {
+    margin-bottom: 1000px;
+}

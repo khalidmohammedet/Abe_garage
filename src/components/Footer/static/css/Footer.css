@@ -1,0 +1,132 @@
+/* Footer styling */
+.Footer {
+    background-color: #091436;
+    color: #fff;
+    height: 300px;
+    width: 1295px;
+    padding-bottom: 47px;
+}
+
+.Footer_link {
+    display: flex;
+    padding-left: 20.2%;
+    border-bottom: 2px solid #182344;
+}
+
+.Footer_link_location,
+.Footer_link_email,
+.Footer_link_call {
+    display: flex;
+}
+
+.Footer_link_location_name,
+.Footer_link_email_name,
+.Footer_link_call_name {
+    margin-left: 23px;
+    margin-right: 27px;
+    margin-top: 27px;
+    font-family: "Lato", sans-serif;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.Footer_location_image,
+.Footer_email_image,
+.Footer_call_image {
+    margin-top: 27px;
+}
+
+.Footer_link_border_left {
+    border-left: 2px solid #182344;
+    width: 0px;
+    margin-right: 27px;
+    height: 78px;
+}
+
+.Footer_container {
+    margin-top: 75px;
+    display: flex;
+}
+
+.Footer_paragraph_text {
+    font-family: "Lato", sans-serif;
+    margin-left: 97px;
+    color: #AEB5C1;
+}
+
+.useful_link {
+    font-family: "Lato", sans-serif;
+    margin-left: 68px;
+    margin-right: 68px;
+}
+
+.useful_link_title {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 17px;
+    font-weight: bold;
+}
+
+.useful_link_menu {
+    line-height: 24px;
+    color: #AEB5C1;
+    list-style: none;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.our_services {
+    font-family: "Lato", sans-serif;
+    margin-left: 17px;
+    margin-right: 68px;
+}
+
+.our_services_title {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 17px;
+    font-weight: bold;
+}
+
+.Newslatter_title {
+    font-family: "Lato", sans-serif;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 17px;
+    font-weight: bold;
+}
+
+.Newslatter_paragraph_text {
+    font-family: "Lato", sans-serif;
+    color: #AEB5C1;
+}
+
+.our_services_menu {
+    line-height: 24px;
+    color: #AEB5C1;
+    list-style: none;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.Footer_social_links {
+    margin-top: 27px;
+    display: flex;
+    list-style: none;
+}
+
+.social_social_icon {
+    font-size: 18px;
+    color: #fff;
+    line-height: 38px;
+    border: 1px solid #fff;
+    margin-right: 10px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+}

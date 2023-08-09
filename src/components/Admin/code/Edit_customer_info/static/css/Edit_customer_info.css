@@ -1,0 +1,66 @@
+/* Edit_customer_info styling */
+.Edit_customer_info {
+    margin-left: 108px;
+}
+
+.Edit_customer_info_heading {
+    display: flex;
+    margin-bottom: 24px;
+}
+
+.Edit_customer_info_heading_title {
+    font-family: "Lato", sans-serif;
+    font-size: 32px;
+    color: #05175B;
+    font-weight: bolder;
+}
+
+.Edit_customer_info_heading_line {
+    color: #EE0D09;
+    margin-left: 17px;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.Edit_customer_info_form_form_title {
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 18px;
+    margin-left: 8px;
+    font-weight: bolder;
+}
+
+.Edit_customer_info_form_input {
+    font-family: "Lato" , sans-serif;
+    border: 1px #DDDDDD solid;
+    padding: 14px;
+    font-size: 15.8px;
+    outline: none;
+    padding-right: 232px;
+    margin-bottom: 14px;
+}
+
+.Edit_customer_info_form_active_customer_container {
+    font-family: "Lato" , sans-serif;
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    font-size: 17px;
+}
+
+.Edit_customer_info_form_active_customer_check_out {
+    margin-right: 12px;
+}
+
+.Edit_customer_info_form_button_container {
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    background-color: #EE0D09;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    border: none;
+    padding: 10px 32px;
+}
