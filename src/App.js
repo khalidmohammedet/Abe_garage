@@ -17,13 +17,13 @@ function App() {
     <Router>
       <div>
         <Routes>
-          <Route path="/admin" element={
+          {/* <Route path="/admin" element={
             <>
               <Header />
               <Admin />
               <Footer />
             </>
-          } />
+          } /> */}
           <Route path="/login" element={
             <>
               <Header />
